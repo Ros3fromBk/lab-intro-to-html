@@ -25,8 +25,8 @@ Create a home page with the appropriate boilerplate code, and then add the follo
 
 ✅- Create a new folder called `sundial` and add an `index.html` file.
 ✅- Add boilerplate code and an `h1` with the word `Sundial` and add navigation that allows you to navigate back to home and also to the following `index.html` file
-- Then, create another new folder called `recipe` and add an `index.html` file.
-- Add boilerplate code and an `h1` with the word `Recipe` and add navigation that allows you to navigate back to home and also to the `Sundial` `index.html` file
+✅- Then, create another new folder called `recipe` and add an `index.html` file.
+✅- Add boilerplate code and an `h1` with the word `Recipe` and add navigation that allows you to navigate back to home and also to the `Sundial` `index.html` file
 
 > **Note**: Remember, you can open the HTML file in your browser by typing `open index.html` in the terminal.
 
